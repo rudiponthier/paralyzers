@@ -826,7 +826,7 @@ $description="Optredens van rootsrockband Paralyzers.";
 	        </div>
 
 	      </section>
-	  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	  <!-- <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script> -->
 	  <script src="js/liveaccordion.js"></script>
 	  <script src="js/jquery.swipebox.js"></script>
 
