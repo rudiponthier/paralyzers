@@ -33,7 +33,6 @@ $description="Liveopnames van de Belgische rootsrockband Paralyzers (Genk on sta
           </div>
           <div class="youtubetekst">
             <p>In juni 2013 speelden de Paralyzers voor de vierde keer op Genk on stage.</p>
-            </p>
           </div>
         </section>
 
