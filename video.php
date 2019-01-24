@@ -28,7 +28,7 @@ $description="Liveopnames van de Belgische rootsrockband Paralyzers (Genk on sta
         <section class="paralyzersvideo">
           <div class="youtubevideo">
             <div class="videowrapper">
-              <iframe src="http://www.youtube.com/embed/eFWvQL_9Q6M?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen title="The Paralyzers op Genk on stage 2013 - Come on, Teenage kicks en Lonely boy"></iframe>
+              <iframe src="https://www.youtube.com/embed/eFWvQL_9Q6M?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen title="The Paralyzers op Genk on stage 2013 - Come on, Teenage kicks en Lonely boy"></iframe>
               </div>
           </div>
           <div class="youtubetekst">
@@ -40,7 +40,7 @@ $description="Liveopnames van de Belgische rootsrockband Paralyzers (Genk on sta
         <section class="paralyzersvideo">
           <div class="youtubevideo">
             <div class="videowrapper">
-              <iframe src="http://www.youtube.com/embed/OtL4B2xUc1s?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen title="The Paralyzers live in Genk 2012 - Teenage kicks, Lonely boy en The KKK took my baby away"></iframe>
+              <iframe src="https://www.youtube.com/embed/OtL4B2xUc1s?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen title="The Paralyzers live in Genk 2012 - Teenage kicks, Lonely boy en The KKK took my baby away"></iframe>
               </div>
           </div>
           <div class="youtubetekst">
@@ -53,7 +53,7 @@ $description="Liveopnames van de Belgische rootsrockband Paralyzers (Genk on sta
         <section class="paralyzersvideo">
           <div class="youtubevideo">
             <div class="videowrapper">
-              <iframe src="http://www.youtube.com/embed/SsxllaeDXC4?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen title="The Paralyzers live op Blues in Genk 2010 - Shadow play"></iframe>
+              <iframe src="https://www.youtube.com/embed/SsxllaeDXC4?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen title="The Paralyzers live op Blues in Genk 2010 - Shadow play"></iframe>
               </div>
           </div>
           <div class="youtubetekst">
@@ -65,7 +65,7 @@ $description="Liveopnames van de Belgische rootsrockband Paralyzers (Genk on sta
         <section class="paralyzersvideo">
           <div class="youtubevideo">
             <div class="videowrapper">
-              <iframe src="http://www.youtube.com/embed/GOr39gX-lJc?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen title="The Paralyzers live in Muziekodroom Hasselt 2002 - Mumbo jumbo"></iframe>
+              <iframe src="https://www.youtube.com/embed/GOr39gX-lJc?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen title="The Paralyzers live in Muziekodroom Hasselt 2002 - Mumbo jumbo"></iframe>
               </div>
           </div>
           <div class="youtubetekst">
