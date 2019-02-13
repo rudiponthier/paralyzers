@@ -38,7 +38,7 @@ $description="Optredens van rootsrockband Paralyzers.";
 	            </ul>
 	          </div>
 
-	          <h2>Voorbije optredens</h2>
+	          <!-- <h2>Voorbije optredens</h2>
 	          <div style="display: none">
 	            <ul>
 	              <li>
@@ -821,7 +821,7 @@ $description="Optredens van rootsrockband Paralyzers.";
 	              </li>
 	            </ul>
 
-	          </div>
+	          </div> -->
 
 	        </div>
 
