@@ -22,13 +22,17 @@ $description="Optredens van rootsrockband Paralyzers.";
 	        <div class="accordion">
 	          <h2>Volgende optredens</h2>
 	          <div style="display: block">
-<!-- 	            <ul>
+	            <ul>
 	              <li>
 	              	<p>Voorlopig zijn er geen optredens gepland.</p>
 	              </li>
 	              <li>
 	              </li>
-	          	</ul> -->
+	          	</ul>
+	          </div>
+
+	          <h2>Voorbije optredens</h2>
+	          <div style="display: none">
 	            <ul>
 	              <li>
 	              	<h3 class="gig-date">vr 15 februari 2019</h3>
@@ -36,10 +40,6 @@ $description="Optredens van rootsrockband Paralyzers.";
 	              	<span class="gig-name"><a href="img/KOTK-Het-narrenschip-vaart-Leuven-15-02-2019.pdf" target ="_blank">Het Narrenschip Vaart</a> (t.v.v. Kom op tegen kanker)</span>
 	              </li>
 	            </ul>
-	          </div>
-
-	          <!-- <h2>Voorbije optredens</h2>
-	          <div style="display: none">
 	            <ul>
 	              <li>
 	              	<h3 class="gig-date">vr 29 juni 2018</h3>
@@ -821,7 +821,7 @@ $description="Optredens van rootsrockband Paralyzers.";
 	              </li>
 	            </ul>
 
-	          </div> -->
+	          </div>
 
 	        </div>
 
