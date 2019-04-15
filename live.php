@@ -24,11 +24,11 @@ $description="Optredens van rootsrockband Paralyzers.";
 	          <div style="display: block">
 	            <ul>
 	              <li>
-	              	<p>Voorlopig zijn er geen optredens gepland.</p>
+	              	<h3 class="gig-date">ma 10 juni 2019</h3>
+	              	<span class="gig-city">Someren (NL)</span>
+	              	<span class="gig-name">Pinkblues Someren</span>
 	              </li>
-	              <li>
-	              </li>
-	          	</ul>
+	            </ul>
 	          </div>
 
 	          <h2>Voorbije optredens</h2>
