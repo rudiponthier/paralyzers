@@ -24,9 +24,9 @@ $description="Optredens van rootsrockband Paralyzers.";
 	          <div style="display: block">
 	            <ul>
 	              <li>
-	              	<h3 class="gig-date">ma 10 juni 2019</h3>
+	              	<h3 class="gig-date">ma 10 juni 2019, 18h</h3>
 	              	<span class="gig-city">Someren (NL)</span>
-	              	<span class="gig-name">Pinkblues Someren</span>
+	              	<span class="gig-name">Pinkblues, Café Zaal Brasserie "<a href="https://indenherberg.nl" target ="_blank">In d'n Herberg</a>", Postel 27, 5711 ET Someren</span>
 	              </li>
 	            </ul>
 	          </div>
