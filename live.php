@@ -24,7 +24,7 @@ $description="Optredens van rootsrockband Paralyzers.";
 	          <div style="display: block">
 	            <ul>
 	              <li>
-	              	<p>Het geplande optreden van maandag 10 juni op Pinkblues in Someren (NL) kan helaas wegens ziekte niet doorgaan.<br />Voorlopig zijn er geen andere optredens gepland.</p>
+	              	<p>Voorlopig zijn er geen optredens gepland.</p>
 	              </li>
 	            </ul>
 	          </div>
