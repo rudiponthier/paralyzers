@@ -30,4 +30,5 @@
     <div id="pagetitle">
         <h1><?php echo $pagetitle ?></h1>
     </div>
+    <div></div>
 </header>

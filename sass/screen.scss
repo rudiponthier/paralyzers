@@ -73,12 +73,6 @@ header {
   flex-shrink: 0;
 }
 
-header#home {
-  height: 80vh;
-  background: linear-gradient(rgba(100, 0, 255, .3), rgba(100, 0, 255, .5)), 
-    url('../img/background-home.jpg') center center / cover no-repeat;
-}
-
 header div#logonav {
   display: flex;
   flex-direction: column;
@@ -86,19 +80,28 @@ header div#logonav {
 
 header div#pagetitle {
   text-align: center; /* Om header div#pagetitle h1 te centreren */
-  margin-bottom: 5%;
   h1 {
-	  letter-spacing: 3px;
-	  display: inline-block;
-	  min-width: 250px;
-	  padding: .5em;
-	  text-transform: uppercase;
-	  font-size: 1em;
-	  color: $wit;
-	  background: rgba(0, 0, 0, .5);
-	  border-radius: .2em;
-	  animation: title 1s;
-	}
+    letter-spacing: 3px;
+    display: inline-block;
+    min-width: 250px;
+    padding: .5em;
+    text-transform: uppercase;
+    font-size: 1em;
+    color: $wit;
+    background: rgba(0, 0, 0, .5);
+    border-radius: .2em;
+    animation: title 1s;
+  }
+}
+
+header#home {
+  height: 90vh;
+  background: linear-gradient(rgba(100, 0, 255, .3), rgba(100, 0, 255, .5)), 
+    url('../img/background-home.jpg') center center / cover no-repeat;
+    div#pagetitle {
+      align-self: center;
+      // margin-bottom: 20%;
+    }
 }
 
 @keyframes title {
