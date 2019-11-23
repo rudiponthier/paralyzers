@@ -12,7 +12,7 @@
   <meta property="og:description" content="De Paralyzers spelen sinds 1994 rootsrock met een vette knipoog naar Paladins, Fabulous T-birds, Webb Wilder, ..." />
   <meta property="og:image" content="img/paralyzers-social.jpg" />
   <meta property="og:url" content="http://www.paralyzers.be" />
-  <meta property="og:locale" content="nl_NL" />
+  <meta property="og:locale" content="nl_BE" />
 
   <link href="css/reset.css" rel="stylesheet">
   <link href="css/slimmenu.css" rel="stylesheet" type="text/css">

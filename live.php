@@ -22,9 +22,16 @@ $description="Optredens van rootsrockband Paralyzers.";
 	        <div class="accordion">
 	          <h2>Volgende optredens</h2>
 	          <div style="display: block">
-	            <ul>
+<!-- 	            <ul>
 	              <li>
 	              	<p>Voorlopig zijn er geen optredens gepland.</p>
+	              </li>
+	            </ul> -->
+	            <ul>
+	              <li>
+	              	<h3 class="gig-date">vr 17 januari 2020</h3>
+	              	<span class="gig-city">Diepenbeek</span>
+	              	<span class="gig-name"><a href="http://www.deploegdiepenbeek.be/">De Ploeg</a></span>
 	              </li>
 	            </ul>
 	          </div>
