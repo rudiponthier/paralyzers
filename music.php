@@ -43,28 +43,28 @@ $description="In 2002 namen rootsrockers de Paralyzers een CD op in eigen beheer
 	            <li>
 	                <audio controls>
 	                    <source src="audio/Move-on-down-the-line.ogg" type="audio/ogg">
-	                        <source src="audio/Move-on-down-the-line.mp3" type="audio/mpeg">
-	                        <object type="application/x-shockwave-flash" »
-	                        data="player.swf?soundFile=audio/Move-on-down-the-line.mp3">
-	                        <param name="movie" »
-	                        value="player.swf?soundFile=audio/Move-on-down-the-line.mp3">
-	                        <a href="audio/Move-on-down-the-line.mp3">Download the song</a>
-	                        </object>
-	                    </audio>
+                        <source src="audio/Move-on-down-the-line.mp3" type="audio/mpeg">
+                        <object type="application/x-shockwave-flash" »
+                        data="player.swf?soundFile=audio/Move-on-down-the-line.mp3">
+                        <param name="movie" »
+                        value="player.swf?soundFile=audio/Move-on-down-the-line.mp3">
+                        <a href="audio/Move-on-down-the-line.mp3">Download the song</a>
+                        </object>
+                    </audio>
 	                <h3>Move on down the line</h3>
 	            </li>
 
 	            <li>
 	                <audio controls>
 	                    <source src="audio/Lets-talk-about-us.ogg" type="audio/ogg">
-	                        <source src="audio/Lets-talk-about-us.mp3" type="audio/mpeg">
-	                        <object type="application/x-shockwave-flash" »
-	                        data="player.swf?soundFile=audio/Lets-talk-about-us.mp3">
-	                        <param name="movie" »
-	                        value="player.swf?soundFile=audio/Lets-talk-about-us.mp3">
-	                        <a href="audio/Lets-talk-about-us.mp3">Download the song</a>
-	                        </object>
-	                    </audio>
+                        <source src="audio/Lets-talk-about-us.mp3" type="audio/mpeg">
+                        <object type="application/x-shockwave-flash" »
+                        data="player.swf?soundFile=audio/Lets-talk-about-us.mp3">
+                        <param name="movie" »
+                        value="player.swf?soundFile=audio/Lets-talk-about-us.mp3">
+                        <a href="audio/Lets-talk-about-us.mp3">Download the song</a>
+                        </object>
+                    </audio>
 	                <h3>Let's talk about us</h3>
 	            </li>
 
@@ -256,28 +256,28 @@ $description="In 2002 namen rootsrockers de Paralyzers een CD op in eigen beheer
 	            <li>
 	                <audio controls>
 	                    <source src="audio/How-long.ogg" type="audio/ogg">
-	                        <source src="audio/How-long.mp3" type="audio/mpeg">
-	                        <object type="application/x-shockwave-flash" »
-	                        data="player.swf?soundFile=audio/How-long.mp3">
-	                        <param name="movie" »
-	                        value="player.swf?soundFile=audio/How-long.mp3">
-	                        <a href="audio/How-long.mp3">Download the song</a>
-	                        </object>
-	                    </audio>
+                        <source src="audio/How-long.mp3" type="audio/mpeg">
+                        <object type="application/x-shockwave-flash" »
+                        data="player.swf?soundFile=audio/How-long.mp3">
+                        <param name="movie" »
+                        value="player.swf?soundFile=audio/How-long.mp3">
+                        <a href="audio/How-long.mp3">Download the song</a>
+                        </object>
+                    </audio>
 	                <h3>How long</h3>
 	            </li>
 
 	            <li>
 	                <audio controls>
 	                    <source src="audio/Nervous-breakdown-1998.ogg" type="audio/ogg">
-	                        <source src="audio/Nervous-breakdown-1998.mp3" type="audio/mpeg">
-	                        <object type="application/x-shockwave-flash" »
-	                        data="player.swf?soundFile=audio/Nervous-breakdown-1998.mp3">
-	                        <param name="movie" »
-	                        value="player.swf?soundFile=audio/Nervous-breakdown-1998.mp3">
-	                        <a href="audio/Nervous-breakdown-1998.mp3">Download the song</a>
-	                        </object>
-	                    </audio>
+                        <source src="audio/Nervous-breakdown-1998.mp3" type="audio/mpeg">
+                        <object type="application/x-shockwave-flash" »
+                        data="player.swf?soundFile=audio/Nervous-breakdown-1998.mp3">
+                        <param name="movie" »
+                        value="player.swf?soundFile=audio/Nervous-breakdown-1998.mp3">
+                        <a href="audio/Nervous-breakdown-1998.mp3">Download the song</a>
+                        </object>
+                    </audio>
 	                <h3>Nervous breakdown</h3>
 	            </li>
 	        </ul>

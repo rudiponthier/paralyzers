@@ -100,7 +100,6 @@ header#home {
     url('../img/background-home.jpg') center center / cover no-repeat;
     div#pagetitle {
       align-self: center;
-      // margin-bottom: 20%;
     }
 }
 
@@ -313,11 +312,14 @@ ul#tracks {
   margin: 0;
   list-style: none;
   li {
-	  margin: 0 0 2em;
+	  margin: 0 0 3em;
 	  text-align: left;
 	  font-size: 80%;
 	  color: $zwart;
 	  font-weight: bold;
+    audio {
+      height: 50px;
+    }
 	  h3 {
 		  text-align: left;
 		  font-size: 100%;
@@ -668,8 +670,11 @@ footer {
     flex-wrap: wrap;
     grid-column: 7 / 13;
     li {
-	    flex: 1 1 300px;
-	    margin-left: 1em;
+	    // flex: 1 1 300px;
+	    margin-left: 2em;
+      audio {
+        height: 50px;
+      }
 	  }
   }
 
