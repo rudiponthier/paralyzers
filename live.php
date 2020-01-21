@@ -43,7 +43,7 @@ $description="Optredens van rootsrockband Paralyzers.";
 						<span class="gig-name"><a href="http://www.deploegdiepenbeek.be/">De Ploeg</a></span>
 					</li>
 					<li>
-						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,001.jpg" title="17-01-2020 | Diepenbeek | Hookrock"><img src="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,001.jpg" /></a></div>
+						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,001.jpg" title="17-01-2020 | Diepenbeek | De Ploeg"><img src="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,001.jpg" /></a></div>
 						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,002.jpg" title="17-01-2020 | Diepenbeek | Hookrock"></a></div>
 						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,004.jpg" title="17-01-2020 | Diepenbeek | Hookrock"></a></div>
 						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,006.jpg" title="17-01-2020 | Diepenbeek | Hookrock"></a></div>
