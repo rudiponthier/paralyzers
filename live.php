@@ -37,11 +37,18 @@ $description="Optredens van rootsrockband Paralyzers.";
 	          <h2>Voorbije optredens</h2>
 	          <div style="display: none">
 	            <ul>
-	              <li>
-	              	<h3 class="gig-date">vr 17 januari 2020</h3>
-	              	<span class="gig-city">Diepenbeek</span>
-	              	<span class="gig-name"><a href="http://www.deploegdiepenbeek.be/">De Ploeg</a></span>
-	              </li>
+					<li>
+						<h3 class="gig-date">vr 17 januari 2020</h3>
+						<span class="gig-city">Diepenbeek</span>
+						<span class="gig-name"><a href="http://www.deploegdiepenbeek.be/">De Ploeg</a></span>
+					</li>
+					<li>
+						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,001.jpg" title="17-01-2020 | Diepenbeek | Hookrock"><img src="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,001.jpg" /></a></div>
+						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,002.jpg" title="17-01-2020 | Diepenbeek | Hookrock"></a></div>
+						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,004.jpg" title="17-01-2020 | Diepenbeek | Hookrock"></a></div>
+						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,006.jpg" title="17-01-2020 | Diepenbeek | Hookrock"></a></div>
+						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,008.jpg" title="17-01-2020 | Diepenbeek | Hookrock"></a></div>
+						<div><a class="button swipebox" rel="17-01-2020" href="img/2020-01-17/2020-01-17,DePloeg,Diepenbeek,012.jpg" title="29-06-2018 | Diepenbeek | Hookrock"></a></div>
 	            </ul>
 	            <ul>
 	              <li>
@@ -51,11 +58,11 @@ $description="Optredens van rootsrockband Paralyzers.";
 	              </li>
 	            </ul>
 	            <ul>
-	              <li>
-	              	<h3 class="gig-date">vr 29 juni 2018</h3>
-	              	<span class="gig-city">Diepenbeek</span></h3>
-	              	<span class="gig-name"><a href="http://www.hookrock.be" target ="_blank">Hookrock</a></span>
-	              </li>
+					<li>
+						<h3 class="gig-date">vr 29 juni 2018</h3>
+						<span class="gig-city">Diepenbeek</span></h3>
+						<span class="gig-name"><a href="http://www.hookrock.be" target ="_blank">Hookrock</a></span>
+					</li>
 					<li>
 						<div><a class="button swipebox" rel="29-06-2018" href="img/2018-06-29/2018-06-29,001,Hookrock.jpg" title="29-06-2018 | Diepenbeek | Hookrock"><img src="img/2018-06-29/2018-06-29,001,Hookrock.jpg" /></a></div>
 						<div><a class="button swipebox" rel="29-06-2018" href="img/2018-06-29/2018-06-29,002,Hookrock.jpg" title="29-06-2018 | Diepenbeek | Hookrock"></a></div>
